@@ -4,7 +4,7 @@
 
 Basic React app which lists the reviews given by people of different job profiles.
 
-
+![Reviews App](https://github.com/sudarshan-sh/ReviewsApp/blob/main/images/reviews-app.png)
 
 ## Functionality
 
